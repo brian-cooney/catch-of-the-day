@@ -23,6 +23,8 @@ class App extends React.Component {
     this.setState({ fishes: sampleFishes });
   };
 
+  addToOrder = key => {};
+
   render() {
     return (
       <div className="catch-of-the-day">
