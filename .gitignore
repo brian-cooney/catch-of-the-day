@@ -1,4 +1,4 @@
 .DS_Store
 build/*
 node_modules/*
-./src/base.js
+src/base.js/*
