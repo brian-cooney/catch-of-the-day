@@ -2,3 +2,4 @@
 build/*
 node_modules/*
 src/base.js
+src/base_new.js
